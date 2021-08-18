@@ -40,15 +40,11 @@
 			"id":"sip:NFZDK1550489293@botplatform.lab.mavenir.com",
 			"name":"TestBot",
 			"icon":"https://bots.rcs.mavenir.com/icon_query?id=TIWS_daniel.hidalgopazos@telefonica.com_TestBot_Icon"
-		},
-		{
-			"id":"sip:OHRTP1561023087@botplatform.lab.mavenir.com",
-			"name":"Test20.06.19",
-			"icon":"https://bots.rcs.mavenir.com/icon_query?id=Stream (MTS) Russia_pbityukov@stream.ru_Test20.06.19_Icon"
 		}
 		],
-		"itemsReturned":9,
-		"totalItems":66},
+		"itemsReturned":8,
+		"totalItems":66
+	},
 	"chatbot": {
 		"pcc": {
 			"pcc-type": "organizaton",

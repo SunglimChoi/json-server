@@ -6,9 +6,14 @@
 			"id":"sip:RICPU1544080176@botplatform.lab.mavenir.com",
 			"name":"TWMchatbot",
 			"icon":"https://bots.rcs.mavenir.com/icon_query?id=TWM_nelsonma@taiwanmobile.com_TWMchatbot_Icon"
+		},
+		{
+			"id":"sip:JWQWF1562652334@botplatform.lab.mavenir.com",
+			"name":"BTU",
+			"icon":"https://bots.rcs.mavenir.com/icon_query?id=CSL Mobile Limited (Bridge Alliance)_neo.tsui@hkcsl.com_BTU_Icon"
 		}
 		],
-		"itemsReturned":1,
+		"itemsReturned":2,
 		"totalItems":66
 	},
 	"chatbot": {

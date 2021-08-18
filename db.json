@@ -11,9 +11,14 @@
 			"id":"sip:MFIRY1543206009@botplatform.lab.mavenir.com",
 			"name":"Fios",
 			"icon":"https://bots.rcs.mavenir.com/icon_query?id=VerizonFios_sheikbharith.liakathali@verizon.com_Fios_Icon"
+		},
+		{
+			"id":"sip:JWQWF1562652334@botplatform.lab.mavenir.com",
+			"name":"BTU",
+			"icon":"https://bots.rcs.mavenir.com/icon_query?id=CSL Mobile Limited (Bridge Alliance)_neo.tsui@hkcsl.com_BTU_Icon"
 		}
 		],
-		"itemsReturned":2,
+		"itemsReturned":3,
 		"totalItems":66
 	},
 	"chatbot": {

@@ -2,12 +2,12 @@
 	"botlists": {
 		"bots": [
 			{
-				"id": "sip:chatbot1@botplatform.example.com",
+				"id": "sip:chatbot0@botplatform.example.com",
 				"name": "chatbot1",
 				"icon": "http://botplatform.example.com/chatbot1/icon.jpg"
 			},
 			{
-				"id": "sip:chatbot2@botplatform.example.com",
+				"id": "sip:chatbot1@botplatform.example.com",
 				"name": "chatbot2",
 				"icon": "http://botplatform.example.com/chatbot2/icon.jpg"
 			}

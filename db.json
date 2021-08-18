@@ -8,17 +8,41 @@
 			"icon":"https://bots.rcs.mavenir.com/icon_query?id=TWM_nelsonma@taiwanmobile.com_TWMchatbot_Icon"
 		},
 		{
+			"id":"sip:JWQWF1562652334@botplatform.lab.mavenir.com",
+			"name":"BTU",
+			"icon":"https://bots.rcs.mavenir.com/icon_query?id=CSL Mobile Limited (Bridge Alliance)_neo.tsui@hkcsl.com_BTU_Icon"
+		},
+		{
+			"id":"sip:KCVAQ1557919542@botplatform.lab.mavenir.com",
+			"name":"IncubeBot",
+			"icon":"https://bots.rcs.mavenir.com/icon_query?id=GMS Worldwide_a.kochura@incuube.com_IncubeBot_Icon"},
+		{
+			"id":"sip:XSLTN1552841552@botplatform.lab.mavenir.com",
+			"name":"BritishTelecom",
+			"icon":"https://bots.rcs.mavenir.com/icon_query?id=Live Person_mhayes@liveperson.com_BritishTelecom_Icon"
+		},
+		{
 			"id":"sip:MFIRY1543206009@botplatform.lab.mavenir.com",
 			"name":"Fios",
 			"icon":"https://bots.rcs.mavenir.com/icon_query?id=VerizonFios_sheikbharith.liakathali@verizon.com_Fios_Icon"
 		},
 		{
-			"id":"sip:JWQWF1562652334@botplatform.lab.mavenir.com",
-			"name":"BTU",
-			"icon":"https://bots.rcs.mavenir.com/icon_query?id=CSL Mobile Limited (Bridge Alliance)_neo.tsui@hkcsl.com_BTU_Icon"
+			"id":"sip:MFPQZ1556550747@botplatform.lab.mavenir.com",
+			"name":"O2DemoCustomerCare",
+			"icon":"https://bots.rcs.mavenir.com/icon_query?id=Live Person_mhayes@liveperson.com_O2DemoCustomerCare_Icon"
+		},
+		{
+			"id":"sip:MTBZG1547985463@botplatform.lab.mavenir.com",
+			"name":"textwik1",
+			"icon":"https://bots.rcs.mavenir.com/icon_query?id=TextWik_kennethmo@textwik.com_textwik1_Icon"
+		},
+		{
+			"id":"sip:NFZDK1550489293@botplatform.lab.mavenir.com",
+			"name":"TestBot",
+			"icon":"https://bots.rcs.mavenir.com/icon_query?id=TIWS_daniel.hidalgopazos@telefonica.com_TestBot_Icon"
 		}
 		],
-		"itemsReturned":3,
+		"itemsReturned":8,
 		"totalItems":66
 	},
 	"bot": {

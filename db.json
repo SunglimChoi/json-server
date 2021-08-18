@@ -21,7 +21,7 @@
 		"itemsReturned":3,
 		"totalItems":66
 	},
-	"chatbot": {
+	"bot": {
 		"pcc": {
 			"pcc-type": "organizaton",
 			"org-details": {

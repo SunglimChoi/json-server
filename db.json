@@ -45,14 +45,9 @@
 			"id":"sip:OHRTP1561023087@botplatform.lab.mavenir.com",
 			"name":"Test20.06.19",
 			"icon":"https://bots.rcs.mavenir.com/icon_query?id=Stream (MTS) Russia_pbityukov@stream.ru_Test20.06.19_Icon"
-		},
-		{
-			"id":"sip:WKSUQ1557236929@botplatform.lab.mavenir.com",
-			"name":"SMSTRAFFIC",
-			"icon":"https://bots.rcs.mavenir.com/icon_query?id=Smstraffic_d.avramenko@smstraffic.ru_SMSTRAFFIC_Icon"
 		}
 		],
-		"itemsReturned":10,
+		"itemsReturned":9,
 		"totalItems":66},
 	"chatbot": {
 		"pcc": {

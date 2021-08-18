@@ -1,6 +1,5 @@
 {
 	"botlists": {
-		"startIndex":1,
 		"bots": [
 			{
 				"id": "sip:chatbot1@botplatform.example.com",
@@ -14,6 +13,7 @@
 			}
 		],
 		"itemsReturned": 2,
+		"startIndex": 1,
 		"totalItems": 2
 	},
 

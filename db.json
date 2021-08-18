@@ -1,6 +1,6 @@
 {
 	"botlists": {
-		"startIndex":"0","bots":[{}],"itemsReturned":0,"totalItems":66
+	"startIndex":"0","bots":[{}],"itemsReturned":0,"totalItems":66},
 	"chatbot": {
 		"pcc": {
 			"pcc-type": "organizaton",

@@ -113,6 +113,10 @@
 				"org-description": "Example service description"
 			}
 		}
+	},
+	"verification": {
+		"iconfingerprint":"73a982e7930460d3c047c2429f35cdeeebba6e86eed259d50c40ef27b8a87711",
+		"id":"sip:serviceid@example.com",
+		"name":"Service Name"
 	}
-
 }

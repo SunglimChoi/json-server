@@ -117,6 +117,7 @@
 	"verification": {
 		"iconfingerprint":"73a982e7930460d3c047c2429f35cdeeebba6e86eed259d50c40ef27b8a87711",
 		"id":"sip:serviceid@example.com",
-		"name":"Service Name"
+		"name":"Service Name",
+		"expires":"2020-04-04T23:59:00Z"
 	}
 }
